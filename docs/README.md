@@ -8,4 +8,4 @@ Samen een boodschappen lijstje bijhouden werkt niet. Iedereen schrijft ergens op
 
 De app boodschappenLijstje maakt het mogelijk een digitaal gebruiksvriendelijk lijstje te maken, die te delen met huisgenoten, je recepten op te slaan en direct toe te kunnen voegen aan je lijstje of zelfs een recept te zoeken en die ingredienten direct toe te voegen aan je boodschappenLijstje.
 
-![Alt text](design_idea.jpeg?raw=true "design idea")
+![Alt text](design_idea.jpeg "design idea")
