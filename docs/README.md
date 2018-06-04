@@ -2,7 +2,7 @@
 
 # Problem statement:
 
-Samen een boodschappen lijstje bijhouden werkt niet. Iedereen schrijft ergens op wat ie nodig heeft en degene die boodschappen gaat doen vergeet zijn eigen lijstje al, laat staan de lijstjes die anderen hebben gemaakt. En dat ene recept, wat zat daar ook alweer in? Of juist eens zin in een nieuw recept maar dat opzoeken, daar de ingredienten weer van op een nieuwe lijstje zetten en dan weer iets vergeten. Boodschappen lijstjes zijn onhandig, vooral in huizen met meerdere personen.
+Samen een boodschappen lijstje bijhouden werkt niet. Iedereen schrijft ergens op wat ie nodig heeft en degene die boodschappen gaat doen vergeet zijn eigen lijstje al, laat staan de lijstjes die anderen hebben gemaakt. En dat ene recept, wat zat daar ook alweer in? Of juist eens zin in een nieuw recept maar dat opzoeken, daar de ingredienten weer van op een nieuwe lijstje zetten en dan weer iets vergeten. Boodschappenlijstjes zijn onhandig, vooral in huizen met meerdere personen.
 
 # Solution
 
