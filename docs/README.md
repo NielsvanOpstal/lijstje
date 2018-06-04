@@ -20,7 +20,6 @@ De app boodschappenLijstje maakt het mogelijk een digitaal gebruiksvriendelijk l
 
 # prerequisites
 
-**** Datasources:
-- firebase
-- recipy api (Yummly if approved or Food2Fork)
-****
+Datasources:
+- firebase for keeping of lists and connecting lists to multiple users
+- recipe api (Yummly if approved or Food2Fork)
